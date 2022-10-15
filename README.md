@@ -1,4 +1,4 @@
-## This Listing
+# This Listing
 
 I build this project as a study case to learn Next JS Static Site Generation with
 getStaticProps and getStaticPaths.
@@ -10,5 +10,5 @@ to get API.
 
 Thanks
 
-# M. Rizki Reza Pahlevi
-# Web Developer and Designer
+## M. Rizki Reza Pahlevi
+## Web Developer and Designer
