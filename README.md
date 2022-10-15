@@ -10,5 +10,4 @@ to get API.
 
 Thanks
 
-## M. Rizki Reza Pahlevi
-## Web Developer and Designer
+## M. Rizki Reza Pahlevi - Web Developer and Designer
